@@ -1,6 +1,3 @@
-<h4>Olá me chamo Matias :)</h4></br><em>Hi my name is Matias</em>
+<h4>Ol&aacute; me chamo Matias :) | <em>Hi my name is Matias</em></h4>
 
-<p>Eu gosto de fazer algumas coisas com bash</p>
-<p>I like to do some things with bash</p>
-
-<p><span style="color: #ff0000;">OLA</span></p>
+<p>Eu gosto de fazer algumas coisas com bash | <em>I like to do some things with bash</em></p>
