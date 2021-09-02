@@ -1,4 +1,4 @@
-<h4>Olá me chamo Matias :)<s>Hi my name is Matias :)</s></h4
+<h4>Olá me chamo Matias :)</h4></br><em>Hi my name is Matias</em>
 
 <p>Eu gosto de fazer algumas coisas com bash</p>
 <p>I like to do some things with bash</p>
