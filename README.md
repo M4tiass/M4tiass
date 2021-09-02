@@ -2,4 +2,4 @@
 
 <p>Eu gosto de fazer algumas coisas com bash | <em>I like to do some things with bash</em></p>
 
-<code>&nbsp;meu <a href="https://t.me/medroso">TELEGRAM</a> | <em> my</em> <a href="https://t.me/medroso">TELEGRAM</a>&nbsp;</code>
+<code>&nbsp;meu <a href="https://t.me/medroso">TELEGRAM</a> | <em> my</em> <a href="https://t.me/medroso">TELEGRAM</a>&nbsp;&nbsp;</code><br><code>&nbsp;também <a href="https://github.com/Lewizh11">Lewis</a> | See too <a href="https://github.com/Lewizh11">Lewis</a></code>
