@@ -6,4 +6,4 @@ Tg | @medroso
 <p>Eu gosto de fazer algumas coisas com bash<p>
 <p>I like to do some things with bash</p>
 
-<p><span style="background-color: #ff0000; color: #ffffff;">ola</span></p>
+<p><span style="color: #ff0000;">OLA</span></p>
